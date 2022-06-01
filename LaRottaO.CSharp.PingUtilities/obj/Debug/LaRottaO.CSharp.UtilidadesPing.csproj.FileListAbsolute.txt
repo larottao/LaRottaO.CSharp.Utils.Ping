@@ -1,0 +1,16 @@
+C:\Users\17-Celmax\source\repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.csprojAssemblyReference.cache
+C:\Users\17-Celmax\source\repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.csproj.CoreCompileInputs.cache
+C:\Users\17-Celmax\source\repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\bin\Debug\LaRottaO.CSharp.UtilidadesPing.dll
+C:\Users\17-Celmax\source\repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\bin\Debug\LaRottaO.CSharp.UtilidadesPing.pdb
+C:\Users\17-Celmax\source\repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.dll
+C:\Users\17-Celmax\source\repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.pdb
+D:\Repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\bin\Debug\LaRottaO.CSharp.UtilidadesPing.dll
+D:\Repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\bin\Debug\LaRottaO.CSharp.UtilidadesPing.pdb
+D:\Repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.csprojAssemblyReference.cache
+D:\Repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.csproj.CoreCompileInputs.cache
+D:\Repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.dll
+D:\Repos\LaRottaO.CSharp.UtilidadesPing\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.pdb
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.csprojAssemblyReference.cache
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.csproj.CoreCompileInputs.cache
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.dll
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.pdb

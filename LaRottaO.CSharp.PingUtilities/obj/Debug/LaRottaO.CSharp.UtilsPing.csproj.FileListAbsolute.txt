@@ -1,0 +1,12 @@
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilsPing.csprojAssemblyReference.cache
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilsPing.csproj.CoreCompileInputs.cache
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.dll
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilidadesPing.pdb
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\bin\Debug\LaRottaO.CSharp.UtilidadesPing.dll
+C:\Sucios\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\bin\Debug\LaRottaO.CSharp.UtilidadesPing.pdb
+C:\Repos.LaRottaO\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\bin\Debug\LaRottaO.CSharp.UtilsPing.dll
+C:\Repos.LaRottaO\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\bin\Debug\LaRottaO.CSharp.UtilsPing.pdb
+C:\Repos.LaRottaO\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilsPing.csprojAssemblyReference.cache
+C:\Repos.LaRottaO\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilsPing.csproj.CoreCompileInputs.cache
+C:\Repos.LaRottaO\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilsPing.dll
+C:\Repos.LaRottaO\LaRottaO.CSharp.Utils.Ping\LaRottaO.CSharp.UtilidadesPing\obj\Debug\LaRottaO.CSharp.UtilsPing.pdb
