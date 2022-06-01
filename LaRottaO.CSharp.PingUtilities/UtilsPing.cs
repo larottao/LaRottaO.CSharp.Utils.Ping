@@ -17,11 +17,6 @@ namespace LaRottaO.CSharp.PingUtilities
         ///
         /// </summary>
 
-        protected UtilsPing()
-        {
-            //Not implemented
-        }
-
         public Task<Boolean> ping(string argAddress, int argTimeout = 2000, Boolean argShowDebug = true)
         {
             return Task.Run(() =>
